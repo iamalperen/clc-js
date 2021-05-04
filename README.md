@@ -6,7 +6,7 @@
 
 # Clc-js
 
-# THIS LIBRARY IS NO LONGER SUPPORTED. NEW AND MORE COMPREHENSIVE VERSION will BE REACHED BY https://github.com/iamalperen/mea-js
+# THIS LIBRARY IS NO LONGER SUPPORTED. NEW AND MORE COMPREHENSIVE VERSION will BE REACHED BY https://github.com/iamalperen/mea-js (under development)
 
 clc.js is a lightweight math calculation library. 
 
